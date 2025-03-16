@@ -17,4 +17,4 @@
   
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Frlyp&repo=github-readme-stats)](https://github.com/Frlyp/github-readme-stats)
+
